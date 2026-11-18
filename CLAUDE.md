@@ -1,8 +1,6 @@
 # ClassNest - Agent Context
 
-Flutter app (Material 3) for students of Divine Word College of Legazpi (Group LAB'D, CC105). Students keep their class schedule, see which room each class is in, track which rooms are in use, and get notified in-app when a room changes. All data is local to the phone: no backend, no Firebase.
-
-Naming: the app is called ClassNest. The Dart package, folder and database file are still named `classnav` (imports use `package:classnav/...`), so do not rename them.
+Flutter app for students of Divine Word College of Legazpi (Group Dpinili, CC105). Students keep their class schedule, see which room each class is in, track which rooms are in use, and get notified in-app when a room changes. All data is local to the phone: no backend, no Firebase.
 
 ## Commands
 - `flutter pub get` - install packages
